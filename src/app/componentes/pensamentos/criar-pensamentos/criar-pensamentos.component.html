@@ -33,7 +33,7 @@
           <span>Modelo 2</span>
         </label>
         Prévia:
-        <div class="modelo modelo1 ff-roboto-mono">
+        <div class="modelo modelo2 ff-roboto-mono">
           <img src="/assets/Imagens/modelo2.png" alt="Aspas Azul Claro">
           <p class="conteudo">{{ pensamento.conteudo }}</p>
           <p class="autoria"><b>{{ pensamento.autoria }}</b></p>
@@ -48,7 +48,7 @@
           <span>Modelo 3</span>
         </label>
         Prévia:
-        <div class="modelo modelo1 ff-roboto-mono">
+        <div class="modelo modelo3 ff-roboto-mono">
           <img src="/assets/Imagens/modelo3.png" alt="Aspas Verdes">
           <p class="conteudo">{{ pensamento.conteudo }}</p>
           <p class="autoria"><b>{{ pensamento.autoria }}</b></p>
@@ -57,7 +57,7 @@
     </div>
     <div class="acoes">
       <button (click)="criarPensamento()" class="botao">Salvar</button>
-      <button (click)="cancelarPensamento()" class="botao">Cancelar</button>
+      <button routerLink="/listarPensamento" (click)="cancelarPensamento()" class="botao" >Cancelar</button>
     </div>
   </form>
 </section>

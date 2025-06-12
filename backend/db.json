@@ -1,0 +1,22 @@
+{
+  "pensamentos":[
+    {
+      "id": 1,
+      "conteudo": "A vida é feita de escolhas. Escolha ser feliz.",
+      "autor": "Desconhecido",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "A vida é feita de escolhas. Escolha ser feliz.",
+      "autor": "Desconhecido",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "A vida é feita de escolhas. Escolha ser feliz.",
+      "autor": "Desconhecido",
+      "modelo": "modelo3"
+    }
+  ]
+}
