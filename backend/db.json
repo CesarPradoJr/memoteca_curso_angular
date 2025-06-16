@@ -2,165 +2,21 @@
   "pensamentos": [
     {
       "id": "1",
-      "conteudo": "A vida é feita de escolhas. Escolha ser feliz.",
-      "autoria": "Desconhecido",
+      "conteudo": "We are the champions my friends!!!",
+      "autoria": "Queen",
       "modelo": "modelo1"
     },
     {
       "id": "2",
-      "conteudo": "A vida é feita de escolhas. Escolha ser feliz.",
-      "autoria": "Desconhecido",
+      "conteudo": "Na minha máquina funciona!",
+      "autoria": "Dev da madrugada!",
       "modelo": "modelo2"
     },
     {
       "id": "3",
-      "conteudo": "A vida é feita de escolhas. Escolha ser feliz.",
-      "autoria": "Desconhecido",
+      "conteudo": "Continue a codar... continue a codar...",
+      "autoria": "Dory programadora",
       "modelo": "modelo3"
-    },
-    {
-      "id": 0,
-      "conteudo": "",
-      "autoria": "",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 0,
-      "conteudo": "",
-      "autoria": "",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "3ccc",
-      "conteudo": "",
-      "autoria": "",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "e9ae",
-      "conteudo": "aaaaa",
-      "autoria": "aaaaa",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "4ff2",
-      "conteudo": "aaaaa",
-      "autoria": "aaaaa",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "1e08",
-      "conteudo": "",
-      "autoria": "",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "06a4",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "6605",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "b630",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "5cee",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "8dd5",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "fca4",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "9e0c",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "10fe",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "42a0",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "b283",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "d890",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "1f5b",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "9461",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "560a",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "7e83",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "1f21",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "615a",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "97ae",
-      "conteudo": "Hello World!",
-      "autoria": "Cesar",
-      "modelo": "modelo1"
     }
   ]
 }

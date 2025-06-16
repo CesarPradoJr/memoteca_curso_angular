@@ -27,7 +27,7 @@ constructor(private service: PensamentoService, private router: Router) { }
 ngOnInit(): void {}
 
 criarPensamento(){
-  this.service.incluir(this.pensamento).subscribe(() => {
+  this.service.criar(this.pensamento).subscribe(() => {
     this.router.navigate(['/listarPensamento'])
   })
 }
